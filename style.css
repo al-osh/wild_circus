@@ -1,0 +1,93 @@
+	
+	
+	
+	body {
+			background-size:cover;
+			background:url("https://c2.staticflickr.com/4/3801/9732482747_96c83d0cc7_h.jpg");
+			text-align:center;
+			color:red;
+			}
+			
+	h1{
+    font-size:75px;
+	font-family:Inknut Antiqua, serif;
+	 padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    margin:-55px 0px 0px 0px;
+	}
+	img {
+      margin:12px 0px 0px 0px;
+      border: 6px dotted rosybrown;
+      border-radius: 20px;
+    }
+/*body {
+    background-image: url("https://c2.staticflickr.com/4/3801/9732482747_96c83d0cc7_h.jpg");
+    
+}*/
+
+
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height:100px;
+	width:100px;
+	border-radius:100%;
+	border:2px solid black;
+	
+	
+	
+	}
+.ball1{
+	/*border:2px dashed #008000;
+	background-color: #FF0000;*/
+	
+	background-image: url('https://c1.staticflickr.com/9/8513/8544934336_60efe6bbcc_s.jpg');
+	margin:auto;
+   width:104px;
+  height:140px; 
+  border-radius:0;
+  border-radius:80% 80% 80% 80%;
+  margin: 0 auto;
+  position: absolute;
+  padding:10px;
+  float:right;
+  clear:both;
+  /*box-shadow:inset 17px 7px 10px @gps-burg; 
+  -webkit-transform-origin: bottom center;*/
+	
+}
+.ball2{
+	border:2px dashed #008000;
+	background-color: #0000FF;
+	background-image: url('https://c1.staticflickr.com/3/2396/1906662004_7a32214d77_s.jpg');
+	position:relative;
+	margin:20px 10px 10px 350px;
+	clear:both;
+	}
+.ball3{
+	border:2px dashed #008000;
+	background-color: #FFD700;
+		background-image: url('https://c2.staticflickr.com/6/5123/5261389796_bcb6270ff0_s.jpg');
+	position:relative;
+	clear:both;
+	margin:20px -80px 10px 490px;
+	}
+.ball4{
+	/*border:2px dashed #008000;
+	background-color: #308014;
+	background-image: url('https://c2.staticflickr.com/8/7236/6907472144_581d1eb0ca_s.jpg');
+	margin:auto;*/
+	
+	background-image: url('https://c2.staticflickr.com/8/7236/6907472144_581d1eb0ca_s.jpg');
+	margin:12px -80px 10px 304px;
+   width:104px;
+  height:140px; 
+  border-radius:0;
+  border-radius:80% 80% 80% 80%;
+  padding:10px;
+  animation:balloon1 6s ease-in-out infinite;
+	}
+	
+	
