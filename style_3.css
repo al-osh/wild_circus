@@ -11,12 +11,67 @@
 	}	
 	*/
 	.peter1{
+		font-size:19px;
+		width:350px;
+		font-family:Inknut Antiqua, serif;
+		text-align:center;
+	
+		text-align:center;
+		border-radius:20px;
+		border:6px dotted rosybrown;
+		margin: 51px 70px 20px 444px;
+	}
+	.peter1:hover {
+		background-color:seashell;
+		}
+	
+	.firstp{
 		font-size:16px;
 		width:350px;
 		font-family:Inknut Antiqua, serif;
 		text-align:center;
+		background-color:transparent;
+		text-align:center;
+		border-radius:20px;
+		border:6px dotted rosybrown;
+		margin: 18px 70px 20px 0px;
+		position:
+	}
+	.firstp:hover {
+		background-color:seashell;
+		}
+	
+	.secondp{
+		font-size:16px;
+		width:350px;
+		font-family:Inknut Antiqua, serif;
+		text-align:center;
+		background-color:transparent;
+		text-align:center;
+		border-radius:20px;
+		border:6px dotted rosybrown;
+		margin: -153px 70px 20px 408px;
+		position:
 	}
 	
+	.secondp:hover {
+		background-color:seashell;
+		}
+	.thirdp{
+		font-size:16px;
+		width:350px;
+		font-family:Inknut Antiqua, serif;
+		text-align:center;
+		background-color:transparent;
+		text-align:center;
+		border-radius:20px;
+		border:6px dotted rosybrown;
+		margin: -195px 70px 20px 845px;
+		position:
+	}
+	.thirdp:hover {
+		background-color:seashell;
+		}
 	body {
 			
 			background-size:cover;
@@ -26,7 +81,7 @@
 			color:red;
 			}
 			
-	ul li{
+	/*ul li{
 		margin:-55px 0px 0px 0px;
 		display: inline-block;
 		width:350px;
@@ -34,7 +89,7 @@
 		font-size:16px;
 		font-family:Inknut Antiqua, serif;
 		
-		}
+		}*/
 	h1{
     font-size:75px;
 	font-family:Inknut Antiqua, serif;
@@ -47,7 +102,7 @@
 	
 	
 	img {
-      margin:12px 35px 0px 0px;
+      margin:53px 35px 0px 0px;
       border: 6px dotted rosybrown;
       border-radius: 20px;
     }
@@ -115,4 +170,7 @@
 	}
 .*/
 	
+	.firstp{
+	
+	}
 	
